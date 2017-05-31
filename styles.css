@@ -1,0 +1,19 @@
+centeredBanner{
+	position: fixed;
+	left:50%
+	margin-left: -200px
+}
+centered {
+  position: fixed;
+  left: 50%;
+  margin-left: -100px;
+}
+
+body {background-color: limegreen;}
+h1   {color: blue;}
+p    {color: black;}
+
+div {
+	word-wrap: break-word;
+	width: 600px;
+}
